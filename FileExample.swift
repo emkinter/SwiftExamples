@@ -7,7 +7,7 @@
 import Foundation
 // Setting directory URL "/Users/ekkehard/Desktop/" needs to be replaced
 // with the full directory path where this code resides
-let directoryPath = URL(fileURLWithPath: "/Users/ekkehard/Desktop/")
+let directoryPath = URL(fileURLWithPath: " /Users/ekkehard/Library/Mobile\ Documents/com\~apple\~CloudDocs/Workspace/SwiftExamples/")
 print(directoryPath)
 // Add Data.txt filename to directoryPath
 let fileURL = directoryPath
